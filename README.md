@@ -1,0 +1,1 @@
+I analyzed a suspicious email to identify phishing indicators. I checked the sender’s address, examined the content for urgent language, and reviewed links for fake or mismatched URLs. I also looked for grammar errors and header discrepancies. Based on these findings, I concluded that the email was a phishing attempt.
